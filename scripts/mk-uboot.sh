@@ -7,7 +7,7 @@
 # ============================================================================
 
 # Configuration
-DEVICE_NAME="ployer-momo7"
+DEVICE_NAME="teclast-a10t"
 UBOOT_VERSION="v2020.10"
 UBOOT_REPO="https://github.com/geekchun/u-boot.git"
 CROSS_COMPILE="arm-linux-gnueabihf-"
